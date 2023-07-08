@@ -16,7 +16,7 @@ const MyPomo = () => {
 
 
   useEffect(() => {
-    let time: number;
+    let time: any;
     time = setInterval(() => {
 
       if (remaining === (totalBreak + 1)) {
