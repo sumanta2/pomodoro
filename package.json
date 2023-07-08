@@ -10,8 +10,7 @@
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
-    "test": "vitest"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@mantine/core": "^6.0.16",
@@ -29,7 +28,6 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.1",
     "typescript": "^5.0.2",
-    "vite": "^4.4.0",
-    "vitest": "^0.33.0"
+    "vite": "^4.4.0"
   }
 }
