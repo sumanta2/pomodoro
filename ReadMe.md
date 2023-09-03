@@ -1,22 +1,22 @@
-#  POMODORO CLOCK
+# POMODORO CLOCK
 
-## Live Link - https://sumanta2.github.io/pomodoro/
+## Live Link - <https://sumanta2.github.io/pomodoro/>
 
 ---
 
-## Source Code - https://github.com/sumanta2/pomodoro
+## Source Code - <https://github.com/sumanta2/pomodoro>
 
 ---
 
 ## DEMO VIDEO
 
-https://github.com/sumanta2/pomodoro/assets/72364211/e888b53b-fe35-47bc-9829-35f3a7af47d5
+<https://github.com/sumanta2/pomodoro/assets/72364211/e888b53b-fe35-47bc-9829-35f3a7af47d5>
 
 ---
 
 ## INSTALLATION
 
-```
+```bash
 1. git clone https://github.com/sumanta2/pomodoro
 2. cd pomodoro
 3. npm install
@@ -40,7 +40,7 @@ https://github.com/sumanta2/pomodoro/assets/72364211/e888b53b-fe35-47bc-9829-35f
 
 ### FRONTEND
 
-1. React JS 
+1. React JS
 2. Typescript (Basic)
 3. Vanilla CSS
 
@@ -48,7 +48,7 @@ https://github.com/sumanta2/pomodoro/assets/72364211/e888b53b-fe35-47bc-9829-35f
 
 ## SNAPSHOTS
 
-### DESKTOP VIEW 
+### DESKTOP VIEW
 
 ![DesktopView](https://github.com/sumanta2/pomodoro/assets/72364211/a6c73f18-075f-445f-a01a-423ca4a1df5e)
 
